@@ -21,4 +21,7 @@ A laser tripwire security system using ESP32, laser module, LDR sensor, and buzz
 
 ---
 
+## Circuit Diagram
+![Laser Tripwire Circuit](./laser_tripwire_circuit_diagram.png)
 
+---
